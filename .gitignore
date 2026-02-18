@@ -1,0 +1,43 @@
+# Data files - DO NOT COMMIT
+*.h5
+*.mat
+*.ome.zarr/
+*.zarr/
+
+# BIDS data directories
+sub-*/
+derivatives/
+
+# Generated BIDS metadata files (user should generate these)
+dataset_description.json
+participants.tsv
+samples.tsv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
