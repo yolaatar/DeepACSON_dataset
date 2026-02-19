@@ -12,6 +12,7 @@ derivatives/
 dataset_description.json
 participants.tsv
 samples.tsv
+CONVERSION_SUMMARY.md
 
 # Python
 __pycache__/
