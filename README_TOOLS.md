@@ -136,16 +136,5 @@ For multiple acquisitions (e.g., LM - Low Magnification):
 - **OME-Zarr Spec**: https://ngff.openmicroscopy.org/latest/
 - **NeuroPoly Curation Guidelines**: https://intranet.neuro.polymtl.ca/data/dataset-curation.html
 
-## License
 
-[Specify your license]
 
-## Citation
-
-If you use this conversion tool, please cite:
-- DeepACSON: https://github.com/axondeepseg/deepacson
-- BIDS Specification: https://doi.org/10.1038/sdata.2016.44
-
-## Contact
-
-For questions or issues, please open an issue on GitHub.
